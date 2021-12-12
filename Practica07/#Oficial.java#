@@ -4,10 +4,6 @@ public class Oficial extends Operador{
     }
     @Override
     public String toString(){
-	return "Tecnico" + this.name;
-    }
-
-    public String trabaja(){
-	return "Estoy trabajando";
+	return "toi trabajando :)"
     }
 }
