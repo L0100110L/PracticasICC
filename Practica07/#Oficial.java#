@@ -1,9 +1,0 @@
-public class Oficial extends Operador{
-    public Oficial(){
-	super();
-    }
-    @Override
-    public String toString(){
-	return "toi trabajando :)"
-    }
-}
