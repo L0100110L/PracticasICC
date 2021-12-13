@@ -1,6 +1,9 @@
+/**
+ *@author Yoshua Isai Flores Santillan 
+ */
 public class Tecnico extends Operador{
-    public Tecnico(){
-	super();
+    public Tecnico(String name){
+	super(name);
     }
     @Override
     public String toString(){
